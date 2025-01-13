@@ -1,5 +1,10 @@
 # crypto-exchanges
 
+## Project Live Demo
+```
+crypto-exchanges-vue.netlify.app
+```
+
 ## Project setup
 ```
 npm install
